@@ -15,4 +15,4 @@ do {
   total += Number(input);
 } while (input !== null);
 
-alert(total);
+alert(`Загальна сума рядків дорівнює ${total}`);
